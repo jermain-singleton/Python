@@ -1,6 +1,7 @@
 """
 RichardWardrobeOOP.py
 This program uses a Clothing class to keep track of my wardrobe.
+This is not my program and was used to practice how to use OOP coding
 @version 2
 """
 class Clothing(object):
