@@ -1,2 +1,2 @@
 # Python
-This repo is for testing code and practicing python
+This repo is for practicing python, write simple programs and reference.
